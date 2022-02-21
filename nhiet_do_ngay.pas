@@ -1,3 +1,4 @@
+(*Tinh nhiet do*)
 program Nhiet_do_ngay;
 const Max = 30;
 type Kmang1 = array[1..Max] of real;
