@@ -1,3 +1,5 @@
+(*Sap xep day so*)
+{Copy right Phuong}
 program sapxep;
 uses crt;
 const Nmax = 250;
