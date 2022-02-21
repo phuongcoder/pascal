@@ -1,3 +1,5 @@
+(*Tim so lon nhat cua day so nguyen*)
+{Copyright by Phuong}
 program TimMax;
 uses crt;
 const Nmax = 250;
