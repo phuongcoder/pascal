@@ -1,3 +1,5 @@
+(*Bang nhan*)
+{Copyright by Phuong}
 program Bang_nhan;
 uses crt;
 var B: array[1..9,1..10] of integer;
