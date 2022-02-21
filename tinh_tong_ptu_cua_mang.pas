@@ -1,3 +1,5 @@
+(*Tạo mảng A gồm n (n<=100) số nguyên, mỗi số có trị tuyệt đối không vượt quá 300. Tính tổng các phần tử của mảng là bội số ủa một số nguyên dương k cho trước. *)
+{Copyright by Phuong}
 program Suml;
 uses crt;
 const nmax=100;
